@@ -1,0 +1,22 @@
+{
+  "name": "星枢织阵 · Starloom",
+  "short_name": "星枢织阵",
+  "description": "凝练策略博弈灵魂的星律共鸣塔防游戏",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#13222b",
+  "theme_color": "#13222b",
+  "icons": [
+    {
+      "src": "./assets/icon_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
